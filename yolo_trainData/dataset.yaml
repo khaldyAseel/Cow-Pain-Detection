@@ -1,0 +1,9 @@
+# Path to the training and validation images
+train: /content/drive/MyDrive/CV_EX3_211752969_211622600/yolo_trainData/split_dataset/images/train
+val: /content/drive/MyDrive/CV_EX3_211752969_211622600/yolo_trainData/split_dataset/images/val
+
+# Number of classes
+nc: 1
+
+# Names of the classes
+names: ["cow_face"]
